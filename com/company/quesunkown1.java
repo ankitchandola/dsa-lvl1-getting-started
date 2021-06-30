@@ -11,8 +11,8 @@ public class quesunkown1 {
 
         int a = scn.nextInt();
         int b = scn.nextInt();
-        int low=0;
-        int high=0;
+        int low;
+        int high;
         if(a<b) {
             low = a;
             high = b;
